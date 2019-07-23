@@ -51,7 +51,7 @@ created and exported)
 
 #### `Comment` Component
 
-- create a new file, `Comment.js` within `src/` and don't forget to:
+<!-- - create a new file, `Comment.js` within `src/` and don't forget to:
   - `import React, { Component } from 'react'` at the top of our file
   - Use the `class X extends Component {}` syntax
   - export the class so it can be used in other files
@@ -66,7 +66,7 @@ created and exported)
   it is rendering
 - Don't forget - we can unpack variable values directly with JSX by wrapping them
   in `{}`, i.e. `{this.props.commentText}`
-
+ -->
 #### Take a Break
 
 - Look at something other than your computer screen for at least five minutes
